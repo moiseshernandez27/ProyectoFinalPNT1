@@ -39,4 +39,6 @@ Diagrama de clases
 ![tareas](https://github.com/moiseshernandez27/ProyectoFinalPNT1/assets/26515616/7caceada-835f-4bf4-97c4-efc87551e6c9)
 
 Navegación por el sitio
+
+
 ![image](https://github.com/moiseshernandez27/ProyectoFinalPNT1/assets/26515616/55c6fb6c-a0da-4f0e-b7d1-b234cfd44eca)
