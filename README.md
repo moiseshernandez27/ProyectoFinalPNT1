@@ -42,3 +42,17 @@ Navegación por el sitio
 
 
 ![image](https://github.com/moiseshernandez27/ProyectoFinalPNT1/assets/26515616/55c6fb6c-a0da-4f0e-b7d1-b234cfd44eca)
+
+# Docker
+Para ejecutar la aplicación con Docker, se debe ejecutar el siguiente comando en la raíz del proyecto:
+
+```bash
+docker compose up -d
+```
+
+## Datos de conexión mssql
+- Server: localhost,1433
+- User: sa
+- Password: admin123
+- Database: master
+- conectionString: Server=localhost,1433;Database=master;User=sa;Password=admin123;
